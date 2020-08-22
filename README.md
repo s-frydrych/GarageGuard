@@ -7,8 +7,8 @@ __`2. Delay 1s`__
 __`3. Program takes another photo`__
   <br></br>
 __`4. Motion detector compares these 2 images, if there is a motion detected, switch is activated, 2nd image is saved into 'saved' folder`__
-__`5. The second image is sent to ocr.space where is recognized text from the image (vehicle registration plate text)`__
   <br></br>
+__`5. The second image is sent to ocr.space where is recognized text from the image (vehicle registration plate text)`__
 ## Why?
 #### It could be uselful on filling stations or in city's to locate criminals, I believe that people would find more uses.
 ## Is it effective?
