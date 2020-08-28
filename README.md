@@ -12,7 +12,7 @@ __`5. The second image is sent to ocr.space where is recognized text from the im
 ## Why?
 #### It could be uselful on filling stations or in city's to locate criminals, I believe that people would find more uses.
 ## Is it effective?
-#### More than you think, the text is being recognized on every motion so if the car is moving too fast on the first frame, the registration plate can be recognized on second frame. The text from image engine this script is using might not be the best and because of that Im going to make a version using __<a href='https://github.com/tesseract-ocr'>Tesseract</a>__.
+#### More than you think, the text is being recognized on every motion so if the car is moving too fast on the first frame, the registration plate can be recognized on second frame. The text from image engine this script is using might not be the best and because of that Im going to make a version using __<a href='https://github.com/tesseract-ocr'>Tesseract</a>__. (DONE)
 ## Wow, it seems cool!
 #### Thanks! Im accepting pull requests if you want to contribute.
 
