@@ -1,5 +1,6 @@
 # GarageGuard
 ## How does it work?
+<pre>
 __` 1. Program takes a photo using camera`__
   <br></br>
 __`2. Delay 1s`__
@@ -9,6 +10,7 @@ __`3. Program takes another photo`__
 __`4. Motion detector compares these 2 images, if there is a motion detected, switch is activated, 2nd image is copied from 'frames' folder into 'saved' folder`__
   <br></br>
 __`5. The second image is sent to ocr.space where is recognized text from the image (vehicle registration plate text)`__
+</pre>
 ## Why?
 #### It could be uselful on filling stations or in city's to locate criminals, I believe that people would find more uses.
 ## Is it effective?
